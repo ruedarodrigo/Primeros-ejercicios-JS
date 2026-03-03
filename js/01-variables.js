@@ -20,7 +20,7 @@ console.log("contenido de la variable nombre: " + nombre);
 //url = "https://google.com/"
 console.log(url);
 
-// tipo de datos
+// tipo de datos (en Javascript no se declara el tipo de variable)
 
 // string
 const apellido = "Navarro"; 
